@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorarioDominio", "HorarioDominio\HorarioDominio.csproj", "{42925EA2-7E7B-4270-9DD4-0A9DC819CC89}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Horario", "Horario\", "{2ABA0F75-E500-4BDD-AC92-E520B0F13BF8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		ProjectReferences = "{42925ea2-7e7b-4270-9dd4-0a9dc819cc89}|HorarioDominio.dll;{176dd81e-0f2a-453e-b158-824f0233a164}|HorarioNegocio.dll;{82947C3E-7EBB-431B-BC69-3830E2784F9D}|HorarioGestionDatos.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_54149"
+		Debug.AspNetCompiler.PhysicalPath = "Horario\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54149\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_54149"
+		Release.AspNetCompiler.PhysicalPath = "Horario\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54149\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54149"
+		SlnRelativePath = "Horario\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorarioGestionDatos", "HorarioGestionDatos\HorarioGestionDatos.csproj", "{82947C3E-7EBB-431B-BC69-3830E2784F9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorarioNegocio", "HorarioNegocio\HorarioNegocio.csproj", "{176DD81E-0F2A-453E-B158-824F0233A164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42925EA2-7E7B-4270-9DD4-0A9DC819CC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42925EA2-7E7B-4270-9DD4-0A9DC819CC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42925EA2-7E7B-4270-9DD4-0A9DC819CC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42925EA2-7E7B-4270-9DD4-0A9DC819CC89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ABA0F75-E500-4BDD-AC92-E520B0F13BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ABA0F75-E500-4BDD-AC92-E520B0F13BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ABA0F75-E500-4BDD-AC92-E520B0F13BF8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ABA0F75-E500-4BDD-AC92-E520B0F13BF8}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{82947C3E-7EBB-431B-BC69-3830E2784F9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82947C3E-7EBB-431B-BC69-3830E2784F9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82947C3E-7EBB-431B-BC69-3830E2784F9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82947C3E-7EBB-431B-BC69-3830E2784F9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{176DD81E-0F2A-453E-B158-824F0233A164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176DD81E-0F2A-453E-B158-824F0233A164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176DD81E-0F2A-453E-B158-824F0233A164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176DD81E-0F2A-453E-B158-824F0233A164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {837B2773-1EFA-4502-ACD0-355CB7FC1A77}
+	EndGlobalSection
+EndGlobal

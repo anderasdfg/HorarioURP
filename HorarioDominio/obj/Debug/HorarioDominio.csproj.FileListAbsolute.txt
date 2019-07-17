@@ -1,0 +1,10 @@
+D:\Proyecto_BD\HorarioProfesores\HorarioDominio\bin\Debug\HorarioDominio.dll
+D:\Proyecto_BD\HorarioProfesores\HorarioDominio\bin\Debug\HorarioDominio.pdb
+D:\Proyecto_BD\HorarioProfesores\HorarioDominio\obj\Debug\HorarioDominio.csprojResolveAssemblyReference.cache
+D:\Proyecto_BD\HorarioProfesores\HorarioDominio\obj\Debug\HorarioDominio.dll
+D:\Proyecto_BD\HorarioProfesores\HorarioDominio\obj\Debug\HorarioDominio.pdb
+C:\Users\anderly\Downloads\Proyecto_BD\HorarioProfesores\HorarioDominio\bin\Debug\HorarioDominio.dll
+C:\Users\anderly\Downloads\Proyecto_BD\HorarioProfesores\HorarioDominio\bin\Debug\HorarioDominio.pdb
+C:\Users\anderly\Downloads\Proyecto_BD\HorarioProfesores\HorarioDominio\obj\Debug\HorarioDominio.csproj.CoreCompileInputs.cache
+C:\Users\anderly\Downloads\Proyecto_BD\HorarioProfesores\HorarioDominio\obj\Debug\HorarioDominio.dll
+C:\Users\anderly\Downloads\Proyecto_BD\HorarioProfesores\HorarioDominio\obj\Debug\HorarioDominio.pdb

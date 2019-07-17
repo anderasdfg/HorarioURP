@@ -1,0 +1,14 @@
+D:\Proyecto_BD\HorarioProfesores\HorarioGestionDatos\bin\Debug\HorarioGestionDatos.dll
+D:\Proyecto_BD\HorarioProfesores\HorarioGestionDatos\bin\Debug\HorarioGestionDatos.pdb
+D:\Proyecto_BD\HorarioProfesores\HorarioGestionDatos\obj\Debug\HorarioGestionDatos.csprojResolveAssemblyReference.cache
+D:\Proyecto_BD\HorarioProfesores\HorarioGestionDatos\obj\Debug\HorarioGestionDatos.dll
+D:\Proyecto_BD\HorarioProfesores\HorarioGestionDatos\obj\Debug\HorarioGestionDatos.pdb
+C:\Users\anderly\Downloads\Proyecto_BD\HorarioProfesores\HorarioGestionDatos\bin\Debug\HorarioGestionDatos.dll
+C:\Users\anderly\Downloads\Proyecto_BD\HorarioProfesores\HorarioGestionDatos\bin\Debug\HorarioGestionDatos.pdb
+C:\Users\anderly\Downloads\Proyecto_BD\HorarioProfesores\HorarioGestionDatos\obj\Debug\HorarioGestionDatos.csprojAssemblyReference.cache
+C:\Users\anderly\Downloads\Proyecto_BD\HorarioProfesores\HorarioGestionDatos\obj\Debug\HorarioGestionDatos.csproj.CoreCompileInputs.cache
+C:\Users\anderly\Downloads\Proyecto_BD\HorarioProfesores\HorarioGestionDatos\obj\Debug\HorarioGestionDatos.dll
+C:\Users\anderly\Downloads\Proyecto_BD\HorarioProfesores\HorarioGestionDatos\obj\Debug\HorarioGestionDatos.pdb
+C:\Users\anderly\Downloads\Proyecto_BD\HorarioProfesores\HorarioGestionDatos\bin\Debug\HorarioDominio.dll
+C:\Users\anderly\Downloads\Proyecto_BD\HorarioProfesores\HorarioGestionDatos\bin\Debug\HorarioDominio.pdb
+C:\Users\anderly\Downloads\Proyecto_BD\HorarioProfesores\HorarioGestionDatos\obj\Debug\HorarioGestionDatos.csproj.CopyComplete
