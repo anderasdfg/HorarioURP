@@ -14,7 +14,7 @@ namespace HorarioGestionDatos
         {
             get
             {
-                return "data source=DESKTOP-JD6AVD3\\SQLEXPRESS;initial catalog=HORARIOURP;integrated security=SSPI; User ID=Anderley; Password=2014lunahuana";
+                return ""; //cadena de conexión
             }
         }
         
